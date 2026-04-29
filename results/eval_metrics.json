@@ -1,0 +1,7 @@
+{
+  "test_ppl_full_system": 1.0009,
+  "test_ppl_baseline_no_retrieval": 1.0007,
+  "encoder_test_sentiment_accuracy": 0.8172,
+  "encoder_test_derived_accuracy": 0.9906,
+  "encoder_test_sentiment_f1_macro": 0.4928
+}
